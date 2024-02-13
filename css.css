@@ -1,0 +1,13 @@
+/* div {
+    margin: 0.5rem 0;
+  } */
+
+  button {
+    display: block;
+  }
+  
+  div,
+  button {
+    margin: 0.5rem 0;
+  }
+  
